@@ -25,6 +25,17 @@ You can then step through the folding process or play the animations to see how 
 
 You can also switch between Chinese and English using the language toggle.
 
+### Input Notation
+
+Uppercase letters represent inverse generators. For example:
+
+- `A` represents \(a^{-1}\)
+- `B` represents \(b^{-1}\)
+- `aB` represents \(ab^{-1}\)
+- `AB` represents \(a^{-1}b^{-1}\)
+
+You can also use explicit notation, such as `ab^{-1}` or `a^-1b`.
+
 🌐 [Try it here](https://tojyc.github.io/Stallings_folding_visualizer/)
 
 ![Stallings Folding Visualizer](screenshot.png)
