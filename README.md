@@ -23,6 +23,8 @@ Enter these four words, one per line, and click **Build Graph and Compute Foldin
 
 You can then step through the folding process or play the animations to see how the graph changes at each step.
 
+You can also switch between Chinese and English using the language toggle.
+
 🌐 [Try it here](https://tojyc.github.io/Stallings_folding_visualizer/)
 
 ![Stallings Folding Visualizer](screenshot.png)
