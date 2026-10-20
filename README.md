@@ -4,6 +4,10 @@ A small interactive tool for visualizing Stallings folding, with step-by-step an
 
 Built with the help of ChatGPT. Made for exploring and learning geometric group theory.
 
+🌐 [Try it here](https://tojyc.github.io/Stallings_folding_visualizer/)
+
+(A screenshot of the visualizer is shown at the bottom of this README.)
+
 ## Example
 
 Here's an example from *Office Hours with a Geometric Group Theorist* that I'm currently reading.
@@ -36,6 +40,6 @@ Uppercase letters represent inverse generators. For example:
 
 You can also use explicit notation, such as `ab^{-1}` or `a^-1b`.
 
-🌐 [Try it here](https://tojyc.github.io/Stallings_folding_visualizer/)
+## Screenshot
 
 ![Stallings Folding Visualizer](screenshot.png)
