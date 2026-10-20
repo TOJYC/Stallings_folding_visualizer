@@ -1,1 +1,1 @@
-# math_visualizer
+# Stallings_folding_visualizer
