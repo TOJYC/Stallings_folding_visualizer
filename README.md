@@ -25,7 +25,7 @@ You can then step through the folding process or play the animations to see how 
 
 You can also switch between Chinese and English using the language toggle.
 
-### Input Notation
+## Input Notation
 
 Uppercase letters represent inverse generators. For example:
 
