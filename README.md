@@ -40,6 +40,6 @@ Uppercase letters represent inverse generators. For example:
 
 You can also use explicit notation, such as `ab^{-1}` or `a^-1b`.
 
-## Screenshot
+## Preview
 
 ![Stallings Folding Visualizer](screenshot.png)
