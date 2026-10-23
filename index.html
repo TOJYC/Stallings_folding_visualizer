@@ -2584,6 +2584,7 @@ _stallings_module = types.ModuleType("stallings")
 _stallings_module.__file__ = "algorithm/stallings.py"
 exec(compile(_stallings_module_source, _stallings_module.__file__, "exec"), _stallings_module.__dict__)
 sys.modules["stallings"] = _stallings_module
+stallings = _stallings_module
 del _stallings_module_source
 `);
 
